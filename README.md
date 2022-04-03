@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghuveer57
 - 👀 I’m interested in Game Engine Development, 3D Animation tools
-- 🌱 I’m currently working as a contractor for Unity3D Editor R&D team
-- 💞️ I’m looking to collaborate on projects involving 3D Animation and Gaming
+- 🌱 Worked as a contractor for Unity3D Editor R&D team
+- 💞️ I’m looking to collaborate on projects involving 3D Animation, Gaming or GUI frameworks
 - 📫 Reach me at raghuveerchs@gmail.com
 
 <!---

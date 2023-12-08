@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @raghuveer57
-- 👀 I’m interested in Game Engine Development, 3D Animation tools
-- 🌱 Worked as a contractor for Unity3D Editor R&D team
-- 💞️ I’m looking to collaborate on projects involving 3D Animation, Gaming or GUI frameworks
-- 📫 Reach me at raghuveerchs@gmail.com
+- 👀 I’m interested in Application Development
+- 🌱 Work Experience : Konami Gaming
+-                      Unity3D Editor R&D,
+-                      Loyal Engine ( Web Backend) 
+-                      Qualcomm Software tools ( Camera team),
+-                      AutoCAD Plugin Developer ( C++ , Object ARX )
+-                      AutoRevit Plugin Developer ( C# Revit API)
+-                      Python Web, GUI Automation and Utilities
+-                       
+- 💞️ I'm excited about collaborating on diverse projects that explore the realms of creativity and technology, aiming to push boundaries and innovate.
+- 📫 Reach me at raghuveer@codeindians.com
 
 <!---
 raghuveer57/raghuveer57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application Development
 - 🌱 Work Experience : Konami Gaming
                        Unity3D Editor R&D,
-                       Loyal Engine ( Web Backend) ,
+                       Loyalty Engine ( Web Backend) ,
                        Qualcomm Software tools ( Camera team),
                        AutoCAD Plugin Developer ( C++ , Object ARX ),
                        AutoRevit Plugin Developer ( C# Revit API),

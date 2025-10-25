@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @raghuveer57
-- 👀 I’m interested in Application Development
-- 🌱 Work Experience : Konami Gaming
+- 👀 I’m interested in solving real world problems
+- 🌱 Work Experience : Qualcomm Software tools ( Camera team),
                        Unity3D Editor R&D,
-                       Loyalty Engine ( Web Backend) ,
-                       Qualcomm Software tools ( Camera team),
+                       Loyalty Engine ( Web Backend),
+                       Konami Gaming,
                        AutoCAD Plugin Developer ( C++ , Object ARX ),
                        AutoRevit Plugin Developer ( C# Revit API),
                        Python Web, GUI Automation and Utilities .                     
